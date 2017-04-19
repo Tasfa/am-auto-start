@@ -89,8 +89,11 @@ def banner():
 
 def main():
 	banner()
-	apk = sys.argv[1]
-	amstart(apk)
+	if len(sys.argv) == 2:
+		apk = sys.argv[1]
+		amstart(apk)
+	else:
+		print "Usage: python am-start.py apkname "
 
 
 if __name__ == '__main__':
