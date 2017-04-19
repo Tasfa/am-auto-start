@@ -1,5 +1,5 @@
-#am-auto-start
+##am-auto-start
 
-<td>Ã¿´Î adb shell am start -D -n °üÃû/ÀàÃû ÕÒ°üÃûºÍÀàÃû£¬Ò²ÊÇºÜ¿àÄÕ</td>
-<td>¸Ã¹¤¾ß½â¾öÁË×Ô¶¯ÕÒ°üÃûÀàÃû</td>
+<td>æ¯æ¬¡ adb shell am start -D -n åŒ…å/ç±»å æ‰¾åŒ…åå’Œç±»åï¼Œä¹Ÿæ˜¯å¾ˆè‹¦æ¼</td>
+<td>è¯¥å·¥å…·è§£å†³äº†è‡ªåŠ¨æ‰¾åŒ…åç±»å</td>
 <td> useage:  am_auto_start.py pkgname </td>
